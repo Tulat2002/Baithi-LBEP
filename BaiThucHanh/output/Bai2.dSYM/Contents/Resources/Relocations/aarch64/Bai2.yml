@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/luonganhtu/Documents/C/BaiThucHanh/output/Bai2'
+relocations:     []
+...

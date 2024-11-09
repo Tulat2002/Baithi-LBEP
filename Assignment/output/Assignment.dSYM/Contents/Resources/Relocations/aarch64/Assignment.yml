@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/luonganhtu/Documents/C/Assignment/output/Assignment'
+relocations:     []
+...
